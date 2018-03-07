@@ -1,0 +1,17 @@
+{
+  "name": "try-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "~8.1.0",
+    "parcel-bundler": "~1.6.2",
+    "postcss-modules": "~1.1.0"
+  }
+}

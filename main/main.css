@@ -1,0 +1,7 @@
+.main {
+  /* Reference an image file */
+  background: url('./images/parcel.png');
+  color: lightcoral;
+  width: 100%;
+  height: 100%;
+}
