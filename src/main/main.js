@@ -4,7 +4,8 @@ import classes from './main.scss';
 console.log('classes', classes);
 
 export const template = `
-<div class="${classes.main}">
-  <h1>Hello From Parcel</h1>
+<div>
+  <h1 class="${classes.heading}">Hello From Parcel</h1>
+  <p class="${classes.text}">Some body text</p>
 </div>
 `;
