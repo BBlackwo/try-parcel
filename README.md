@@ -7,5 +7,5 @@ npm start
 ```
 
 ```sh
-npm run build # has some issues currently
+npm run build
 ```
